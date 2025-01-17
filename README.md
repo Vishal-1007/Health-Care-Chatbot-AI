@@ -25,7 +25,7 @@ Welcome to Healtho, your virtual healthcare companion powered by AI! In an age w
 
 ## <u>**Connect with Us**</u>
 
-We're excited to have you experience the future of healthcare with Healtho. For updates, insights, and discussions, connect with us on [LinkedIn](#) and follow us on [Twitter](#).
+We're excited to have you experience the future of healthcare with Healtho. For updates, insights, and discussions, connect with us on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalgupta007/)  and follow us on.!!
 
 ## <u>**License**</u>
 
